@@ -1,2 +1,17 @@
 # IndecisionApp
-Starter app I made while learning React. It takes user inputs and creates a list visible to the user. Pressing the button on a screen a selection from the list is shown on a pop-up.
+
+A starter React web-app I created while taking a course on web development with React.
+
+## Installation
+
+```sh
+git clone git@github.com:degawl/indecisionapp.git
+cd indecisionapp
+npm install
+npm start
+```
+
+## Usage
+
+- Visualize a list of options you've decided on.
+- Have the app decide what option to pursue with a popup.
