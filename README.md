@@ -1,6 +1,6 @@
 # IndecisionApp
 
-A starter React web-app I made while taking a course on React w/ Redux.
+A starter React web-app I made while taking a course on React and Redux.
 
 ## Installation
 
